@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rehsonstobacco.com/sitemap.xml
+Sitemap: https://abbas99817.github.io/Rehsons-Tobacco-Company/sitemap.xml
